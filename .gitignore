@@ -1,4 +1,9 @@
 *
+<<<<<<< HEAD
+=======
+!quotes/
+!quotes/**
+>>>>>>> ace4b3e8559c31d8c8b8f78f76cd52aa845092d8
 !stats.json
 !main.json
 !.gitignore
